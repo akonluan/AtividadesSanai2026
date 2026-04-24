@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\GitHubNiko\\AtividadesSanai2026\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F25E82D-4520-410A-8621-F83712DF7453}|ConsoleApp1\\ConsoleApp1.csproj|e:\\githubniko\\atividadessanai2026\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F25E82D-4520-410A-8621-F83712DF7453}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F25E82D-4520-410A-8621-F83712DF7453}|ConsoleApp1\\ConsoleApp1.csproj|e:\\githubniko\\atividadessanai2026\\consoleapp1\\consoleapp1\\adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F25E82D-4520-410A-8621-F83712DF7453}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,11 +23,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHubNiko\\AtividadesSanai2026\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "E:\\GitHubNiko\\AtividadesSanai2026\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "Title": "Adicionar.cs",
+              "DocumentMoniker": "E:\\GitHubNiko\\AtividadesSanai2026\\ConsoleApp1\\ConsoleApp1\\Adicionar.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Adicionar.cs",
+              "ToolTip": "E:\\GitHubNiko\\AtividadesSanai2026\\ConsoleApp1\\ConsoleApp1\\Adicionar.cs",
+              "RelativeToolTip": "ConsoleApp1\\Adicionar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T13:44:35.752Z",
